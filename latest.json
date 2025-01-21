@@ -8,8 +8,8 @@
       "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.4/app-x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+      "signature": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.4/app-x86_64.tar.gz.sig",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.4/app-x86_64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "Content of app.AppImage.tar.gz.sig",
