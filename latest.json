@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDc3dHhlQ2Zhc1VncURtUy9jcncyM0FWVkJUOTRjelN4YVZMTkw5ZkZEQWhPWll0UkVUQnMvRGt6RDJWS2dseVRlTWgwa2FEakVRZERKL3BiQWRVTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NDQ0MDEzCWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKVUZGamRMWHFtZG16UTQrQ3RJa2piZmhZdzFSNjVYWHhUd2VySzMrRGxjTFZWUnlXR3NCUU0rMzVUU25qd2FIbXFNbjhTaUs0am9nNEFrL2w0VHpERGc9PQo=",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.4/app-x86_64.app.tar.gz"
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.5/app-x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDc3dHhlQ2Zhc1VncURtUy9jcncyM0FWVkJUOTRjelN4YVZMTkw5ZkZEQWhPWll0UkVUQnMvRGt6RDJWS2dseVRlTWgwa2FEakVRZERKL3BiQWRVTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NDQ0MDEzCWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKVUZGamRMWHFtZG16UTQrQ3RJa2piZmhZdzFSNjVYWHhUd2VySzMrRGxjTFZWUnlXR3NCUU0rMzVUU25qd2FIbXFNbjhTaUs0am9nNEFrL2w0VHpERGc9PQo=",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.4/app-x86_64.app.tar.gz"
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.5/app-x86_64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "Content of app.AppImage.tar.gz.sig",
