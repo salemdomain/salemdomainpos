@@ -16,8 +16,8 @@
       "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v1.0.0/app-x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDRaaW0vcnFQY3dZQ0IwUFdHUjdWekxXb0NKdGRSWnpYQ2lZK2d6WVI3QnhvQzl3MHc4TkdIdDMrSjRDeVRJeEYraWN2ZytNQTY3Qzk3NkZISjBaRVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTIzNDg2CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC41X3g2NC1zZXR1cC5leGUKekZmYm5hRXZOb0hvYVpscWJDV2Fvd09KOUhmSHowNnZNRW9SRDFtaEVmN3Mwc2lLRFRiOXBoVGRMOHFOMUNlc1UvKzVZUEtUaEZBczhHektuOVhsQ1E9PQo=",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.5/salemdomain.pos_0.0.5_x64-setup.exe"
     }
   }
 }
