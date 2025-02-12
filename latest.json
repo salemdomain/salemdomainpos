@@ -1,6 +1,6 @@
 {
   "version": "v0.0.12",
-  "notes": "Added Damage Section",
+  "notes": "Added Damage Section, We added support for old macOS 10.15.7",
   "pub_date": "2025-02-12T19:55:00.394Z",
   "platforms": {
     "darwin-x86_64": {
