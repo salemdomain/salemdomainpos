@@ -1,23 +1,23 @@
 {
-  "version": "v0.0.12",
-  "notes": "Added Damage Section, We added support for old macOS 10.15.7",
-  "pub_date": "2025-02-12T19:55:00.394Z",
+  "version": "v0.0.13",
+  "notes": "added paid amount out of totals and managing the due amounts (accepting dues and outstandings), also fixed the material selection on adding the products.",
+  "pub_date": "2025-02-15T03:04:21.629Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDE2N0pCbVRCVjZJbXNNY1VHWi9BNHNTbEV1dzFTTWMxLzJ1alpQeGtnOXlablRKYUVBcTYvay83K1Y5cWl6bU5Fc2ovQm1yVlpZdHhVL1dlK2FjV2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzkwMjMzCWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKbG90Tk15V2pHcWErc1R6NExTVFdkd0VMeUxMb2FkMWlhS3NvbFVYbXV2Yzh3MmJQT1lvbFdEc1lGV0JvZWg2K2ZrdXI3bllNOVJyVEh4dVhIWmkwREE9PQo=",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.12/salemdomain.pos.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDJ2VHFFandOcU9lQUp2c2RjL3lNQjNKWk9ESW1QcGZpSERpL2dUUlVaWFhyT292NGVqUWc2VkoyL2lHcDBCcDMzNGhyZ1VzREI3SmVVTzVNV1liSkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NTg3MTUxCWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKVGNtTlFjOFBGckt0RUYxcjlCdFA0QWxWeDY2VEl4ZWNNVmwzRUFRVFVEQUpjZXU5TkVUZ0xrb3kzT0Nib29OajBuZ3hWdkxhWjdObkxWSUUrLzRDQVE9PQo=",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.13/salemdomain.pos.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDE2N0pCbVRCVjZJbXNNY1VHWi9BNHNTbEV1dzFTTWMxLzJ1alpQeGtnOXlablRKYUVBcTYvay83K1Y5cWl6bU5Fc2ovQm1yVlpZdHhVL1dlK2FjV2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzkwMjMzCWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKbG90Tk15V2pHcWErc1R6NExTVFdkd0VMeUxMb2FkMWlhS3NvbFVYbXV2Yzh3MmJQT1lvbFdEc1lGV0JvZWg2K2ZrdXI3bllNOVJyVEh4dVhIWmkwREE9PQo=",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.12/salemdomain.pos.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDJ2VHFFandOcU9lQUp2c2RjL3lNQjNKWk9ESW1QcGZpSERpL2dUUlVaWFhyT292NGVqUWc2VkoyL2lHcDBCcDMzNGhyZ1VzREI3SmVVTzVNV1liSkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NTg3MTUxCWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKVGNtTlFjOFBGckt0RUYxcjlCdFA0QWxWeDY2VEl4ZWNNVmwzRUFRVFVEQUpjZXU5TkVUZ0xrb3kzT0Nib29OajBuZ3hWdkxhWjdObkxWSUUrLzRDQVE9PQo=",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.13/salemdomain.pos.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDhsVmtranVyenoyY0p4SitMV2U3ZHhlYVh1ZllCZ24zeUNIdjZnQ0FNSWdPa2ppbFBXanFnTC94clVPcGM5aE9TSkZNWHVENEtQMGhRN1lCUUFNN3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzkxNjE0CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4xMl94NjQtc2V0dXAuZXhlCkk0RE9IbGJyT3ZnRGZETng4SStRVEtic1J3S2JyRG9EelQxdHpiM3NPM2pIVUhxWmpjWUlDRjBGbi8ydXgxYWY3L3hSbDhVelBkMGJFdURDUFhaY0JBPT0K",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.12/salemdomain.pos_0.0.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDFMNU9RUmxOa3ZidzhhVEU5NlBiWGJ0V3dmSlhHNWpuWXdOY3ZYTUhQaHpsUUM4R0ZKckQ1bTJEQnU0K3U3T3FFMUdVcnRlcDh2dlNvdVp4QU1QRUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NTg3Nzg3CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4xM194NjQtc2V0dXAuZXhlClpRSjhzUDJ2RExaNURhelJvVlFQWjRXOTYyRjFnVzEvdFdqQnhxVE4zU2hhY2hQczkzRFVHVGdVN3BqVGtCN2JCNmNUTW4waXJ5UjZaRE5NbVkweURBPT0K",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.13/salemdomain.pos_0.0.13_x64-setup.exe"
     },
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDFnSVdUQ2E5MkNLRU0reUluT2JmUkgrZ1BNSDNRWDBhUEdpVjFvY1EySDR6ZE5aQ3VGQysxbzN4V3hrQ1VSaGdIWnpGL21TZUdDejJxVUxsWWU0b2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzkyMzk3CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4xMl94ODYtc2V0dXAuZXhlCjladUdjbzNlZ0g1VWVsZGhKRUVEQkF6UjlUVnRkWXQwZjFMcnAycjVSQzRMZjJNUXAvTFhLMHFRTEJKV2NVMEhCUTkzMkMzbkQyaVJQMGZPdjNpeEJBPT0K",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.12/salemdomain.pos_0.0.12_x86-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDF5WXBGY3h6R0o1K2EvcjlESUtXbXBZMTZrQVhDc2hYc1dTVEoxYTN1SmlMVExrMzM2Q21TWStxZ3YyNG1rMDFUUGZxMldyZURteFVwRkVabkNRYXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NTg4NTc4CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4xM194ODYtc2V0dXAuZXhlCnQ1S1NsRVZxeDZTUEtWZkFQSHZCamVmYVBqZFVSZXFjRUdhRGh2U1ROWUVrVjhGK0JPeWNSWTNlUFZ6RlNGaHM5QldLYS9zK2JSVnRQSnFpdk5KOERnPT0K",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.13/salemdomain.pos_0.0.13_x86-setup.exe"
     }
   }
 }
