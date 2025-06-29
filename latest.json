@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.21",
+  "version": "v0.0.28",
   "notes": "🚀 What’s New\n✅ Full Offline Mode Support\nYou can now use SalemDomain POS completely offline — no internet connection required!\n\nSell products, manage inventory, and record transactions anytime\n\nAll changes are securely saved locally and synced when the connection returns\n\nPerfect for shops with unstable or no internet!\n\n\n🐞 Bug Fixes & Improvements\nFixed several reported issues that caused crashes or slowdowns\n\nImproved data syncing performance\n\nUI enhancements for better user experience\n\nSmoother customer and product management flows\n\nFixed issues related to multi-user login sessions",
   "pub_date": "2025-06-29T09:44:07.579Z",
   "platforms": {
