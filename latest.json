@@ -1,23 +1,23 @@
 {
-  "version": "v0.0.27",
+  "version": "v0.0.28",
   "notes": "🚀 What’s New\n✅ Full Offline Mode Support\nYou can now use SalemDomain POS completely offline — no internet connection required!\n\nSell products, manage inventory, and record transactions anytime\n\nAll changes are securely saved locally and synced when the connection returns\n\nPerfect for shops with unstable or no internet!\n\n\n🐞 Bug Fixes & Improvements\nFixed several reported issues that caused crashes or slowdowns\n\nImproved data syncing performance\n\nUI enhancements for better user experience\n\nSmoother customer and product management flows\n\nFixed issues related to multi-user login sessions",
-  "pub_date": "2025-06-29T09:44:07.579Z",
+  "pub_date": "2025-06-30T09:57:10.651Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.27/salemdomain.pos.app.tar.gz"
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.28/salemdomain.pos.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.27/salemdomain.pos.app.tar.gz"
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.28/salemdomain.pos.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDZUZTNla2xwSkZYSi91dzdWdFFtdk5XalcwVlRxR1p2NWJweDRWZjRhL2M2eS9mL1pqYVFQemJtY0VsNFErelhqQnpBbVZaWVhNRHBQN3lPUm5KNUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjA4NTY1CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4yN194NjQtc2V0dXAuZXhlCkJCTFhyWSt6YWp1cWZSNG5IQjFnSnZiUloxbXZRY0x2NjA5aGF0SE5FQjN6RFBNYzhTZ0tVNVYyTThZQldCUm5hSjBBcGZQQjgycWJidWE5NGt0akNnPT0K",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.27/salemdomain.pos_0.0.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDhxZjdoQnpxamoxTjY3ZU1xb2pYYkZ6cDRvR3FGeGhuWVBhTFFkaDM2MitYUm5Ja3R1RlJ5c0xQREh1bUpaby8rWExwZExwVUJXTXR6VlNTT0ZHb2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjc3ODQxCWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4yOF94NjQtc2V0dXAuZXhlCm9CT0ZZWU1ndEZyL0JIMmxPN1YvREdGTkpqamRTclIvT1l1aC9PL21rL1hFUDFFam9iNW96bGkrWUNKR3RTTDArMjNXNjNXeW9yTjBlM0JVT2huc0F3PT0K",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.28/salemdomain.pos_0.0.28_x64-setup.exe"
     },
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDI5RmpnNnl0dmFHZS9Ia0QvMCtlbUtUOFJIR3NEdjVuL1JJa3JIbk51dlNvd24xbWVvT1F3SXRRSk1mVXFkQ2hsMlp5RW1QOVpuWnJlY0hQcExGb2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjA5NTU0CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4yN194ODYtc2V0dXAuZXhlCnVFNnhEM3FhSU9RVTFxUDEvdWVRakJFWUlmVjFSTXVxL05TeTVuUFVXMG1MVGduQnhhTGNVT3RCQjNYeUFTWnFpaWFFYzFrcnRzWXhZcVRFYlQxaUJ3PT0K",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.27/salemdomain.pos_0.0.27_x86-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NHg3SDhEVGNxdmZCdWNEalNnT1pFMTc3Y1dBTk53NWF6Nk54K2YwT0o3aXhuRXRlNTAzN0hCVFRaWEZSUTNHeTE4M0dWUUhKUkF4My9IcWR1Y0xGbFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMjc4NTMzCWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4yOF94ODYtc2V0dXAuZXhlCnZOOFJaa0NMMmVobFl5ZDJpTTFER2VySHVJWDNheUlmZ3NMREs1bDRPNDdyTGtsV1BvY2h5MkI1RGNDSlZmc1ozekkzWHNESjE1Y0NxUVI2MDdyeEJRPT0K",
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.28/salemdomain.pos_0.0.28_x86-setup.exe"
     }
   }
 }
