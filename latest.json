@@ -4,11 +4,11 @@
   "pub_date": "2025-06-30T09:57:10.651Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDBqMkVCQ2xmdi9IQnpUcUdKbG9UV3RhVXphaSs4cjVKckZXd2ZFRkUycEVXajNibnN0dzlYNGppS2dYeWpqeEVmbm40R2VJRmlBb3BSa3RYY01WR1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMzU1MzI0CWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKeTR5WUhtZ1dqNXNCZDNvODdNQ2MrMzdzZmJOQzNacG5jMG5wOUw2VGtSbWZ0U2JqZlcyME9vT0RhK2J1YU9aUGlOQ1YyUGtyVEJmeWxLT2kyeEhQQ0E9PQo=",
       "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.28/salemdomain.pos.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NDBqMkVCQ2xmdi9IQnpUcUdKbG9UV3RhVXphaSs4cjVKckZXd2ZFRkUycEVXajNibnN0dzlYNGppS2dYeWpqeEVmbm40R2VJRmlBb3BSa3RYY01WR1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMzU1MzI0CWZpbGU6c2FsZW1kb21haW4gcG9zLmFwcC50YXIuZ3oKeTR5WUhtZ1dqNXNCZDNvODdNQ2MrMzdzZmJOQzNacG5jMG5wOUw2VGtSbWZ0U2JqZlcyME9vT0RhK2J1YU9aUGlOQ1YyUGtyVEJmeWxLT2kyeEhQQ0E9PQo=",
       "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.28/salemdomain.pos.app.tar.gz"
     },
     "windows-x86_64": {
