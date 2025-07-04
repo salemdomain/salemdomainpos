@@ -16,7 +16,7 @@
       "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.29/salemdomain.pos_0.0.29_x64-setup.exe"
     },
     "windows-i686": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb0ZCcEdJdVh2NC92a0tTa3VBanZSOEZncndISk1xbjRkUlJFb0RlWjByY2JHV3ZHQ1RDQjRtSHVaVHNRRityLzFIVUp0SzBERVJ0SGhlKzc4NVdKVk1YbWhyVlFtU2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNjA4Mjk1CWZpbGU6c2FsZW1kb21haW4gcG9zXzAuMC4yOV94ODYtc2V0dXAuZXhlClJLbWdqYVRXVzZHNEJReFRueUc1MGhqNGhzL1Aza3lKVkVpT2RsWE5OWC9sNjJwRS9xeG13cUlVZEgxRDdzSFdHK2JQS0JJdSt5TlBhdUtEM0krWkF3PT0K",
       "url": "https://github.com/salemdomain/salemdomainpos/releases/download/v0.0.29/salemdomain.pos_0.0.29_x86-setup.exe"
     }
   }
